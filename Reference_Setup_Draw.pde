@@ -18,6 +18,5 @@ void draw() {
   stroke(150);
   noFill();
   arc(mouseX, mouseY+12, random(120), 80, radians(180), radians(360));
-
 }
 
