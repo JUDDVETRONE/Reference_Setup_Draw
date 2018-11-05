@@ -13,7 +13,6 @@ void draw() {
   fill(255, 50);
   arc(mouseX, mouseY, random(190), 80, radians(180), radians(360));
   
-  
   strokeWeight(2);
   stroke(150);
   noFill();
