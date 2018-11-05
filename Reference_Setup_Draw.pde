@@ -1,4 +1,3 @@
-// add your Reference_Setup_Draw code here
 
 
 void setup() {
@@ -20,16 +19,5 @@ void draw() {
   noFill();
   arc(mouseX, mouseY+12, random(120), 80, radians(180), radians(360));
 
-
-
 }
 
-
-void keyPressed()
-{
-  noLoop();
-}
-void keyReleased()
-{
-  loop();
-}
