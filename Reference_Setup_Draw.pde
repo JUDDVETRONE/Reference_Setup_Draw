@@ -21,7 +21,7 @@ void draw() {
   arc(mouseX, mouseY+12, random(120), 80, radians(180), radians(360));
 
 
-save("REFERENCE-setupDraw.png");
+
 }
 
 
